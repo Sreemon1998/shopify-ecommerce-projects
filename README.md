@@ -9,8 +9,7 @@ This repository showcases real-world Shopify e-commerce websites built for clien
 - Mobile responsiveness and performance optimization
 
 ## Live demo
-- https://your-store-url.myshopify.com  
-(Replace with actual store URL if public)
+shop.freshfoodme.com
 
 ## Tech stack
 - Shopify
