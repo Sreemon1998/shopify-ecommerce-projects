@@ -11,6 +11,13 @@ This repository showcases real-world Shopify e-commerce websites built for clien
 ## Live demo
 shop.freshfoodme.com
 
+### Homepage
+![Homepage](screenshots/homepage.jpeg)
+![Homepage](screenshots/homepage2.jpeg)
+
+### About Page
+![About](screenshots/aboutus.jpeg)
+
 ## Tech stack
 - Shopify
 - Liquid
